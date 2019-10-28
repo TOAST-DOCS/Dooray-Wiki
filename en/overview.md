@@ -1,20 +1,19 @@
-## Dooray! > Wiki > 개요
+﻿## Dooray! > Wiki > Overview
 
-Dooray! 위키는 Dooray! 서비스에서 제공하는 온라인 문서 편집/공유 서비스입니다.
+Dooray! Wiki is an online document editing/sharing service provided by Dooray! Service.
 
 
-##  서비스 설명
-- 파일로 만들어 메일로 오갔던 회의록, 기획서, 업무 자료를 언제 어디서나 위키에 접속해 작성하고 손쉽게 공유할 수 있습니다.
-- 프로젝트 멤버들과 함께 사용하는 위키에서는 멤버들과 함께 문서를 완성해 나가며 더 효과적으로 아이디어를 확장하고 구체화시킬 수 있습니다.
-- 문서에 가장 최신의 내용을 손쉽게 업데이트, 공유, 조회할 수 잇습니다.
+## Service description
+- Access Wiki anywhere at any time to create and share meeting minutes, project proposals, and work materials quickly by storing and sharing them in a file format.
+- Wiki is used by all project members, allowing all members to complete documents and expand and give shape to ideas in a more efficient and effective way.
+- Easily update, share, and look up the latest contents in documents.
 
-##  서비스 특장점
-- 개인 위키뿐 아니라, 프로젝트 위키도 제공해 프로젝트 별 문서 산출물 관리에 효과적입니다.
-- 문서를 변경하면 업데이트 안내가 자동 전파되어 항상 최신의 문서를 쉽게 확인할 수 있습니다.
-- 마크다운 에디터로 위키 페이지에 좀 더 구조적인 글을 손쉽게 작성할 수 있고, 텍스트 만으로 서식을 적용할 수도 있습니다.
-- 회의 모드와 발표 모드를 이용하면 작성한 문서를 바로 발표 문서로 전환할 수 있습니다.
-- 문서가 변경될 때마다 버전별로 자동 저장돼 언제든 필요한 내용을 다시 확인할 수 있고 이전 버전으로 복구 가능
-
+## Service Features
+- As well as Personal Wiki, Project Wiki is provided for more effective management of documentations per project.
+- When a document is updated, the update notification is automatically propagated for users to keep the documents up to date.
+- The markdown editor allows users to author more structured text on the Wiki page and format the text only.
+- Switch the authored document to the presentation document directly by using the meeting mode and the presentation mode.
+- Whenever a document is updated, the updated ones are automatically saved by version, allowing users to view what they need anytime and restore to the previous version.
 
 
 

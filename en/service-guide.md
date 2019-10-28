@@ -1,63 +1,62 @@
-## Dooray > Wiki > 서비스 가이드
+﻿## Dooray > Wiki > Service Guide
 
-### Dooray! 위키 시작하기 
+### Dooray! Getting started with Dooray! Wiki 
 
-Dooray! 위키를 이용하면 언제 어디서나 문서를 작성할 수 있어 항상 최신의 문서를 유지할 수 있습니다. 내 개인 위키뿐 아니라, 프로젝트 위키에서 멤버들과 함께 문서를 작성하고 관리할 수 있습니다. 멤버가 탈퇴해도 문서들은 계속 위키에 남아 있어 조직의 데이터 유실을 막을 수 있습니다.
+Dooray! Wiki allows you to create documents anywhere at any time so you can keep the documents up to date at all times. Personal Wiki as well as Project Wiki is provided for more effective creation and management of documentations with members. Even a member leaves the project, the documentations are still in Wiki, preventing data loss of the organization.
 
-- 위키 사용을 위해서는 조직 관리자가 ‘조직관리>서비스 설정>사용 및 제한’에서 드라이브 서비스 사용 여부를 '사용'으로 설정해야 합니다.
-- '사용'으로 설정 후, 화면을 새로 고침 하면 상단 내비게이션 바에 위키 메뉴가 노출되는 것을 확인할 수 있습니다.
+- To use the Wiki, the organization administrator should set 'Drive Service Enabled?' to 'Enabled' in the ‘Manage Organization>Service Settings>Use and Restrictions’.
+- After setting to 'Enabled', refresh the screen to see the Wiki menu being exposed on the navigation bar at the top.
 
-### 개인 위키
+### Personal Wiki
 
-#### 문서 작성/편집
+#### Create/Edit a Document
 
-- Dooray! 위키 서비스에 들어오면 좌측 페이지 상단에 ‘+새 위키 페이지’ 메뉴를 확인할 수 있습니다.
-- 작성된 위키 페이지는 언제든지 편집 버튼을 눌러 수정할 수 있습니다.
+- Dooray! When starting the Dooray! Wiki service, you can see the ‘+New Wiki Page’ menu at the top left of the page.
+- You can modify the Wiki page anytime by clicking Edit button.
 
 
-#### 문서 이동
+#### Move a Document
  
-- 왼쪽 위키 목록에서 이동시킬 문서를 원하는 위치에 드래그 앤 드롭으로 옮겨 주세요.
+- From the left Wiki list, drag a document and drop on a desired location.
 
-![위키1](http://static.toastoven.net/prod_dooray_wiki/wiki1.png)
+![Wiki 1](http://static.toastoven.net/prod_dooray_wiki/wiki1.png)
 
-<center>[그림 1]드래그 앤 드롭으로 문서 이동</center>
+<center>[Figure 1]Move a Document with Drag and Drop</center>
 
-- 또는 왼쪽 위키 목록 or 위키 본문의 우상단 더 보기 버튼 내 ‘이동’을 클릭해 이동할 위치를 지정한 뒤 이동시킬 수도 있습니다.
-
-
-### 프로젝트 위키
-
-#### 프로젝트 위키 추가
-
--	프로젝트 위키는 프로젝트 멤버들이 모두 함께 이용할 수 있습니다.
--	프로젝트 위키는 해당 프로젝트 관리자가 ‘프로젝트 설정>서비스>위키에서 ‘사용함’으로 설정하면 사용할 수 있습니다.
-
-![위키2](http://static.toastoven.net/prod_dooray_wiki/wiki2.png)
-
-<center>[그림 1]프로젝트 위키 사용 설정</center>
+- Or you can move a document by clicking 'Move' on the View More button at the top right of the Wiki body or on the left Wiki list to specify the location.
 
 
-![위키3](http://static.toastoven.net/prod_dooray_wiki/wiki3.png)
+### Project Wiki
 
-<center>[그림 2]위키 > 프로젝트 위키 생성됨</center>
+#### Add a Project Wiki
+
+-	 Project Wiki can be used by all project members.
+-	 To use a Project Wiki, the project manager should go to ‘Project Settings>Service>Wiki' and set to ‘Enable’.
+
+![Wiki 2](http://static.toastoven.net/prod_dooray_wiki/wiki2.png)
+
+<center>[Figure 1] Enabling Project Wiki</center>
 
 
-### 위키 접근 및 권한
+![Wiki 3](http://static.toastoven.net/prod_dooray_wiki/wiki3.png)
 
-#### 프로젝트 위키
-프로젝트 위키는 프로젝트 멤버 누구나 위키에 접근해 문서를 조회, 수정, 작성할 수 있습니다. 
-(권한이 있는) 다른 프로젝트로의 문서 이동도 가능하나 삭제는 작성자만 가능합니다. 
+<center>[Figure 2]Wiki > Create Project Wiki </center>
 
--	멤버 누구나 문서를 조회, 수정, 작성할 수 있으므로 프로젝트 진행 시 만드는 문서 산출물들은 개인 컴퓨터에서 작성하지 말고 프로젝트 위키에서 작성 할 것을 권장합니다.
--	프로젝트 위키 사용 시 업무 관련 최신 문서를 항상 유지할 수 있어 최종 산출물을 매번 확인하지 않아도 되며, 멤버가 탈퇴하더라도 문서가 그대로 남아 있어 프로젝트 산출물의 유실을 막을 수 있습니다.
--	프로젝트 위키의 삭제는 작성자만 가능합니다.
 
-#### 공개 프로젝트 위키
-조직의 멤버 전체가 함께 문서 조회, 작성이 필요한 경우 공개 프로젝트의 위키를 설정해 사용하시면 됩니다. 
-공개 프로젝트 설정에서 위키 ‘사용함’으로 할 경우 조직 멤버에게만 접근되는 위키가 노출됩니다. 
-(공개 프로젝트 만들기는 프로젝트 도움말을 참고해 주세요.)
+### Access to Wiki and Permissions
 
-### 버전 비교
-프로젝트 멤버들이 문서를 함께 작성하는 경우 문서가 변경될 때마다 버전별로 자동 저장됩니다. 누가 무엇을 추가, 삭제했는지 바로 비교해 볼 수 있고 필요한 경우 이전 버전으로 복원할 수도 있습니다.
+#### Project Wiki
+In Project Wiki, all project members can access Wiki to look up, modify, and write a document. 
+It is possible for all members to move the document to other project (with permission) but only its author can delete the document. 
 
+-	Any member can look up, modify, and write documents. Therefore, it is recommended to write documents during project period on Project Wiki rather than PC.
+-	Use of Project Wiki allows you to keep the work documents up to date, so you don't need to check the final products during the project period. Even if a member leaves the project, the documents are left in the Wiki, preventing loss of project documents.
+-	Only the author can delete the Project Wiki.
+
+#### Public Project Wiki
+If all members of the organization must be able to look up and write documents, set the Project Wiki to Public. 
+On the Public Project Setting, set Wiki to 'Enable" to expose the Wiki which has been available for the organization members only. 
+(For creating a public project, see the Project Help.)
+
+### Compare the Version
+When multiple project members are co-writing a document, each updated version is automatically saved and controlled in versions. You can directly compare the documents as to who has added or deleted what. If necessary, you can even restore the document to a previous version.
