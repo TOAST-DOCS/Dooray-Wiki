@@ -10,7 +10,7 @@ Doorayウィキを利用すると、いつでもどこでも文書を作成す�
 
 #### 文書移動 
 -	左のウィキリストから移動させたい文書を希望の位置にドラッグ&ドロップして移してください。
-![위키1](http://static.toastoven.net/prod_dooray_wiki/wiki1.png)
+![위키](http://static.toastoven.net/prod_dooray_wiki/Wiki_01_jp.png)
 <center>[図1]ドラッグ&ドロップで文書移動</center>
 - または左のウィキリストorウィキ本文の右上にある「…」メニューから、「移動」をクリックして、移動先の位置を指定し、移動させることもできます。
 
@@ -18,7 +18,7 @@ Doorayウィキを利用すると、いつでもどこでも文書を作成す�
 #### プロジェクトウィキ追加
 -	プロジェクトウィキはプロジェクトメンバーが一緒に利用することができます。
 -	プロジェクト作成時、プロジェクトウィキは基本「使用」で作成されます。 (プロジェクトウィキを使用しない場合は、「使用しない」に変更してください。)
-![위키2](http://static.toastoven.net/prod_dooray_wiki/wiki2.png)
+![위키](http://static.toastoven.net/prod_dooray_wiki/Wiki_02_jp.png)
 <center>[図2]プロジェクトウィキ使用設定</center>
 
 ### アクセスおよび使用権限
@@ -26,5 +26,5 @@ Dooray[プロジェクトのサービス別権限設定](https://docs.toast.com/
 
 ### バージョン比較
 文書が変更されるとバージョン別に自動保存されます。誰が、何を、追加/削除したのか、比較することができ、必要に応じて以前のバージョンに復元することもできます。
-![위키2](http://static.toastoven.net/prod_dooray_wiki/wiki2.png)
+![위키](http://static.toastoven.net/prod_dooray_wiki/Wiki_03_jp.png)
 <center>[図3]</center>
