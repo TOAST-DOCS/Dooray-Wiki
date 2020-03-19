@@ -12,7 +12,7 @@ Dooray! 위키를 이용하면 언제 어디서나 문서를 작성할 수 있�
 - 왼쪽 위키 목록에서 이동시킬 문서를 원하는 위치에 드래그 앤 드롭으로 옮겨 주세요.
 
 ![위키](http://static.toastoven.net/prod_dooray_wiki/Wiki_01_ko.png)
-<center>[그림 1]드래그 앤 드롭으로 문서 이동</center>
+<center>[그림 1] 드래그 앤 드롭으로 문서 이동</center>
 
 -	또는 왼쪽 위키 목록 or 위키 본문의 우상단 더 보기 버튼 내 ‘이동’을 클릭해 이동할 위치를 지정한 뒤 이동시킬 수도 있습니다.
 
@@ -22,7 +22,7 @@ Dooray! 위키를 이용하면 언제 어디서나 문서를 작성할 수 있�
 -	프로젝트 생성시 프로젝트 위키는 기본적으로  ‘사용함’ 상태로 생성됩니다. (프로젝트 위키를 원치 않으실 경우 ‘사용 안함’ 으로 변경해 주세요.)
 
 ![위키](http://static.toastoven.net/prod_dooray_wiki/Wiki_02_ko.png)
-<center>[그림 2]프로젝트 위키 사용여부 설정</center>
+<center>[그림 2] 프로젝트 위키 사용여부 설정</center>
 
 ### 위키 접근 및 권한
 Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Project/ko/service-guide-detail/)을 참고해주세요. 
@@ -31,4 +31,4 @@ Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Pr
 프로젝트 멤버들이 문서를 함께 작성하는 경우 문서가 변경될 때마다 버전별로 자동 저장됩니다. 누가 무엇을 추가, 삭제했는지 바로 비교해 볼 수 있고 필요한 경우 이전 버전으로 복원할 수도 있습니다.
 
 ![위키3](http://static.toastoven.net/prod_dooray_wiki/Wiki_03_ko.png)
-<center>[그림 3]프로젝트 위키 사용여부 설정</center>
+<center>[그림 3] 프로젝트 위키 사용여부 설정</center>
