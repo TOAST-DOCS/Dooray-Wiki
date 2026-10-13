@@ -25,7 +25,7 @@ Doorayウィキを利用すると、いつでもどこでも文書を作成す�
 <center>[図2]プロジェクトウィキ使用設定</center>
 
 ### アクセスおよび使用権限
-Dooray[プロジェクトのサービス別権限設定](https://docs.toast.com/ja/Dooray/Project/ja/service-guide-detail/ )を参考にしてください。
+Dooray[プロジェクトのサービス別権限設定](https://docs.nhncloud.com/ja/Dooray/Project/ja/service-guide-detail/ )を参考にしてください。
 
 ### バージョン比較
 文書が変更されるとバージョン別に自動保存されます。誰が、何を、追加/削除したのか、比較することができ、必要に応じて以前のバージョンに復元することもできます。

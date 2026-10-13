@@ -25,7 +25,7 @@ Dooray! 위키를 이용하면 언제 어디서나 문서를 작성할 수 있�
 <center>[그림 2] 프로젝트 위키 사용여부 설정</center>
 
 ### 위키 접근 및 권한
-Dooray! [Project 서비스별 권한 설정](https://docs.toast.com/ko/Dooray/Project/ko/service-guide-detail/)을 참고해주세요. 
+Dooray! [Project 서비스별 권한 설정](https://docs.nhncloud.com/ko/Dooray/Project/ko/service-guide-detail/)을 참고해주세요. 
 
 ### 공유하기
 공유하기를 통해 위키 페이지를 다른 사람과 공유할 수 있습니다.
